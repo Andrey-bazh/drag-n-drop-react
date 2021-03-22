@@ -68,7 +68,7 @@ function App() {
     }
 
     function pushTask() {
-
+   //Закидывает в state ? в столбик сделать
     }
 
     return (
